@@ -14,11 +14,11 @@ Paste your Figma design link here:
 
 Please check all the boxes before submitting:
 
-- [ ]I have completed the assigned design.
-- [ ]I have added my design screenshots.
-- [ ]I have included my Figma link.
-- [ ]I have added my submission README.
-- [ ]I have checked my folder structure.
+- [I have completed the assigned design.]
+- [I have added my design screenshots.]
+- [I have included my Figma link.]
+- [I have added my submission README.]
+- [I have checked my folder structure.]
 This is my original work.
 💭 Short Description
 
