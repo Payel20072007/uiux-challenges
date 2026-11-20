@@ -16,7 +16,7 @@ Practice Git and GitHub through real submissions.
 Share design ideas and creative solutions.
 Learn from each other's work and feedback.
 📂 Repository Structure
-text
+```text
 uiux-challenges/
 │
 ├── .github/
@@ -40,7 +40,7 @@ uiux-challenges/
 │       └── submission-guide.md
 │
 └── README.md
-
+```
 🎯 How to Participate
 
 Follow these steps for every design challenge:
@@ -66,7 +66,7 @@ Design screenshots.
 A short explanation of your design.
 Key design decisions or learnings.
 Suggested Submission Format
-text
+```text
 submissions/
 └── your-name/
     └── challenge-01/
@@ -75,7 +75,7 @@ submissions/
         └── screens/
             ├── screen-01.png
             └── screen-02.png
-
+```
 🤝 Community Guidelines
 Respect everyone's creative ideas.
 Give constructive feedback.
