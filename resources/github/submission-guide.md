@@ -80,7 +80,6 @@ Step 6 – Write Your Submission README
 
 Use the following format:
 
-markdown
 # Challenge 01 – Login Page Design
 
 **Name:** Your Name
