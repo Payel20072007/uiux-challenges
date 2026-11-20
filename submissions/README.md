@@ -16,7 +16,7 @@ Keep all challenge submissions in one place.
 
 Each member should create a personal folder and organize submissions challenge-wise.
 
-text
+```text
 submissions/
 │
 ├── README.md
@@ -36,7 +36,7 @@ submissions/
 └── another-member/
     └── challenge-01/
         └── README.md
-
+```
 📝 What Should Each Submission Include?
 
 Every challenge submission should contain:
@@ -56,10 +56,11 @@ Use meaningful names for screenshots.
 Avoid spaces and special characters in file names.
 
 Examples:
-
+```text
 rahul/
 challenge-01/
 login-page-preview.png
+```
 🤝 Submission Guidelines
 Submit only your own original work.
 Keep your files organized.
