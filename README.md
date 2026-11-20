@@ -25,6 +25,7 @@ uiux-challenges/
 │   └── challenge-03/
 │
 ├── submissions/
+│   └── README.md
 │
 ├── resources/
 │   ├── figma/
