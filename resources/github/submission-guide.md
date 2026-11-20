@@ -59,7 +59,7 @@ Inside the submissions folder, create your own folder.
 
 Follow this structure:
 
-text
+```text
 submissions/
 └── your-name/
     └── challenge-01/
@@ -68,7 +68,7 @@ submissions/
         └── screens/
             ├── screen-01.png
             └── screen-02.png
-
+```
 
 Your submission should contain:
 
