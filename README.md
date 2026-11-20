@@ -16,22 +16,31 @@ Practice Git and GitHub through real submissions.
 Share design ideas and creative solutions.
 Learn from each other's work and feedback.
 📂 Repository Structure
-text
+'''text
 uiux-challenges/
 │
+├── .github/
+│   └── PULL_REQUEST_TEMPLATE.md
+│
 ├── challenges/
-│   ├── challenge-01/
-│   ├── challenge-02/
-│   └── challenge-03/
+│   └── challenge-01/
+│       └── README.md
 │
 ├── submissions/
-│   └── README.md
+│   ├── README.md
+│   └── _template/
+│       └── README.md
 │
 ├── resources/
 │   ├── figma/
+│   │   └── useful-design-resources.md
+│   │
 │   └── github/
+│       ├── README.md
+│       └── submission-guide.md
 │
 └── README.md
+'''
 
 🎯 How to Participate
 
@@ -58,7 +67,7 @@ Design screenshots.
 A short explanation of your design.
 Key design decisions or learnings.
 Suggested Submission Format
-text
+'''text
 submissions/
 └── your-name/
     └── challenge-01/
@@ -67,6 +76,7 @@ submissions/
         └── screens/
             ├── screen-01.png
             └── screen-02.png
+'''
 
 🤝 Community Guidelines
 Respect everyone's creative ideas.
