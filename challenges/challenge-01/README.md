@@ -104,8 +104,3 @@ Note: References are for learning and inspiration. Create your own original desi
 3. Add your work under your personal folder in `submissions/`.
 4. Open a Pull Request with the challenge number and your name.
 
-
----
-
-**Published by:** UI/UX Learning Hub  
-**Challenge Status:** Open / Closed
