@@ -1,79 +1,111 @@
-🎯 Challenge 01 – [Challenge Title]
+# Challenge 01 – Study Planner Website Wireframe
 
-< Add a short and interesting introduction to your challenge here. >
+Welcome to your first UI/UX design challenge! 
 
-📌 Challenge Overview
+In this challenge, you will design a basic wireframe for a **Student Study Planner Website** using Figma. The goal is to plan how a website looks, how its content is arranged, and how users navigate between different pages.
 
-Challenge: 01
+Don't worry about making it visually perfect. This challenge is all about understanding the basics of UI/UX design and learning how to structure a website before adding colors and styling.
 
-Title: [Challenge Title]
+## Challenge Overview
 
-Category: UI/UX Design
+- **Challenge:** 01
+- **Title:** Study Planner Website Wireframe
+- **Category:** UI/UX Design
+- **Tool:** Figma
+- **Difficulty:** Beginner
+- **Deadline:** [29/11/2026]
 
-Tool: Figma
 
-Difficulty: Beginner / Intermediate / Advanced
+## Your Task
 
-Deadline: [DD/MM/YYYY]
+Design a basic wireframe for a **Student Study Planner Website** that helps students organize their studies, manage tasks, and keep track of their schedules.
 
-🎯 Objective
+Your wireframe should show the basic structure and layout of the website.
 
-What should members learn or explore through this challenge?
+Focus on:
+- Organizing content in a clear and logical manner.
+- Creating a simple and understandable navigation.
+- Placing buttons, cards, text, and other elements appropriately.
+- Maintaining consistency across different pages.
+- Thinking from the user's perspective.
 
-Explain the main design goal in a few sentences.
+## Design Requirements
 
-📝 Your Task
+Design the following **3 pages** of the website:
 
-Describe what members are expected to design.
+### 1. Dashboard / Home Page
+The main page that gives students an overview of their study activities.
 
-For example:
+Include:
+- Navigation bar/sidebar
+- Welcome message
+- Upcoming tasks
+- Today's schedule
+- Progress overview (can be represented using simple placeholder boxes)
 
-Design the required screens.
-Maintain visual consistency.
-Focus on usability and accessibility.
-Explore typography, colors and spacing.
-Use components and Auto Layout where appropriate.
-📱 Design Requirements
+### 2. Tasks Page
+A page where students can view and manage their study tasks.
 
-List the screens or elements that must be included.
+Include:
+- Page heading
+- List of study tasks
+- Task name and due date
+- Task status (Pending / Completed)
+- An "Add Task" button
 
-[Screen / Requirement 01]
-[Screen / Requirement 02]
-[Screen / Requirement 03]
-🎨 Design Guidelines
-Keep the interface clean and intuitive.
-Maintain consistent spacing and alignment.
-Use appropriate typography.
-Choose a suitable color palette.
-Pay attention to user experience.
-Keep your Figma layers organized.
-📦 Expected Deliverables
+### 3. Schedule Page
+A page where students can view their study plan or timetable.
+
+Include:
+- Page heading
+- Days of the week
+- Study time slots
+- Subjects or activities scheduled for different times
+
+## Design Guidelines
+
+Since this is a beginner-level wireframing challenge:
+
+- Use basic shapes such as rectangles, lines and circles.
+- Use grayscale colors (white, black and shades of gray).
+- Use placeholder text where necessary.
+- Focus on layout, spacing and alignment.
+- Keep navigation consistent across all pages.
+- Use simple labels for buttons and sections.
+- Keep your Figma layers organized.
+- No need to add detailed colors, images, icons or animations.
+- No need to make the website fully interactive.
+
+**Remember:** A wireframe is the skeleton of a website. Focus on what goes where, not on how beautiful it looks.
+
+## Expected Deliverables
 
 Your submission should include:
 
-Figma design link.
-Design screenshots.
-A short explanation of your design decisions.
-A brief note about what you learned.
-💡 Reference & Inspiration
+- Figma link to your wireframe.
+- Screenshots of all 3 designed pages.
+- A short explanation (2–3 sentences) about your layout choices.
+- A brief note about what you learned from the challenge.
 
-Add useful reference links, images or inspiration here.
+## Reference & Inspiration
 
-Note: References are for inspiration. Create your own original design.
+You may explore these resources to understand wireframes and website layouts:
 
-📤 Submission Instructions
-Complete your design in Figma.
-Follow the instructions in resources/github/submission-guide.md.
-Add your work under your personal folder in submissions/.
-Open a Pull Request with the challenge number and your name.
-🤝 A Little Reminder
+- [Figma – Getting Started](https://help.figma.com/hc/en-us)
+- [Figma Community – Wireframe Kits](https://www.figma.com/community)
+- [Wireframing Basics](https://www.figma.com/resource-library/what-is-wireframing/)
 
-There is no single correct design solution.
+Note: References are for learning and inspiration. Create your own original design.
 
-Explore different ideas, experiment with your creativity and enjoy the process.
+## Submission Instructions
 
-Happy designing! 🚀
+1. Complete your wireframe in Figma.
+2. Follow the instructions in `resources/github/submission-guide.md`.
+3. Add your work under your personal folder in `submissions/`.
+4. Open a Pull Request with the challenge number and your name.
 
-Published by: UI/UX Learning Hub
 
-Challenge Status: Open / Closed
+---
+
+**Published by:** UI/UX Learning Hub  
+**Challenge Status:** Open / Closed
