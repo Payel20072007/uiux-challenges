@@ -6,8 +6,8 @@
 - Challenge: Challenge 01
 
 ## Figma Project
-- Figma Design Link: https://www.figma.com/design/ZVtPIxrL74tUascdTnB2oy/Student-Study-Planner---Challenge-01?node-id=21-294&t=WgA3LU7igxYWmcsO-1
-- Prototype Link: https://www.figma.com/proto/ZVtPIxrL74tUascdTnB2oy/Student-Study-Planner---Challenge-01?node-id=20-13&t=GVUbo7T1z9KntPiC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=21%3A3
+- Figma Design Link: https://www.figma.com/design/ZVtPIxrL74tUascdTnB2oy/Student-Study-Planner---Challenge-01?node-id=35-983&t=C28ThTacWyp5L6Au-1
+- Prototype Link: https://www.figma.com/proto/ZVtPIxrL74tUascdTnB2oy/Student-Study-Planner---Challenge-01?node-id=35-806&t=jAUQRtHNbPD5yJQB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=35%3A466
 
 ## Design Preview
 ![Dashboard Preview](preview.png)
